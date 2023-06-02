@@ -18,3 +18,11 @@
 * <b>Duration</b>: Total Duration - in minutes or number of seasons
 * <b>Listed_in</b>: Genre
 * <b>Description</b>: The summary description
+
+### Approach Overview
+
+The scope of the case study limited to extract actionable insigts from the POV of building/modifying a recommender engine. The notebook would comprise of the following steps - 
+1. Get a high level understanding of the movies dataset (with some univariate analysis)
+2. In-Depth Exploratory Data Analysis (EDA)
+3. Data Cleaning / Pre-Processing (If needed)
+4. Summary of the analysis and Recommendation to the business
